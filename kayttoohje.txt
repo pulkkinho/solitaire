@@ -1,0 +1,15 @@
+Pasianssi
+
+Peli toimii kuten pasianssi yleensä ja pelin tarkoituksena on saada
+kortit maittain järjestykseen ruudun ylälaidan korttipaikoille.
+
+Kortit myös jaetaan pöydälle pelin alussa aivan tavalliseen tapaan.
+Pöydän korttipinon päällimäisen kortin päälle voidaan asettaa erivärinen,
+yhtä lukua pienempi kortti. Mikäli väärinpäin oleva kortti tulee päällimäiseksi,
+se voidaan kääntää ympäri. Kerran käännettyä korttia ei voi kääntää uudelleen.
+Tyhjälle paikalle voidaan asettaa vain kuningas (K).
+
+Ylälaidan tyhjälle paikalle voi asettaa vain ässän (A), minkä päälle käy vain
+saman maan kakkonen ja sen päälle saman maan kolmonen jne.
+
+Kortteja nostetaan pakasta yksi kerrallaan, ja pakka käydään läpi vain kerran.
